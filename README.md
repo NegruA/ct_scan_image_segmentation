@@ -1,7 +1,6 @@
-        Aplicația optimizează delimitarea facută de un doctor pentru un ficat,
-    intr-o imagine tomograf; exclude zone care sunt în afara organului și
-    corectează erorile în care cursorul medicului a tăiat o parte din organ și
-    acea parte nu va mai fi inclusă în selecția curentă. 
+        Aplicația optimizează delimitarea facută de un doctor pentru un ficat, intr-o imagine tomograf; 
+    exclude zone care sunt în afara organului și corectează erorile în care cursorul medicului a tăiat
+    o parte din organ și acea parte nu va mai fi inclusă în selecția curentă. 
         Datele de intrare sunt o matrice în care fiecare intrare reprezintă 
     valoarea hounsfield pentru pixel-ul corespunzator din imaginea tomografului
     și o matrice cu valori 0 si 1 in care sunt marcați cu 1 pixelii aleși de 
